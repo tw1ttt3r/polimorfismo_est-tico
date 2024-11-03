@@ -5,7 +5,7 @@ class Rectangulo {
     }
 
     calcularPerimetro(base, altura) {
-        console.log("Calculando Perimetrp de Rectangulo")
+        console.log("Calculando Perimetro de Rectangulo")
         console.log(`Perimetro del Rectangulo: ${base*altura}`);
     }
 }

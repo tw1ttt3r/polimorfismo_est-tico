@@ -1,7 +1,7 @@
 class Cuadrado {
     calcularArea(lado) {
         console.log("Calculando Area de Cuadrado")
-        console.log(`Area del Cuadrado: ${lado*4}`);
+        console.log(`Area del Cuadrado: ${(lado*4)}`);
     }
 
     calcularPerimetro(lado) {
